@@ -1,0 +1,25 @@
+<style>
+header{
+	background: #B3B3B3;
+}
+h1{
+	text-align: center;
+	color: #666666;
+}
+h2{
+	color: #FFFFFF;
+}
+details{
+	font-style: italic;
+}
+section{
+	background: #0000FF;
+}
+a{
+	background: #0000FF;
+	color: #FF0000;
+}
+img{
+	display: none;
+}
+</style>
